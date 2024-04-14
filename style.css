@@ -1,0 +1,25 @@
+.form{
+margin-bottom: 20px;
+background-color: antiquewhite;
+}
+
+label{
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+
+.name{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    padding: 5px;
+    height: 300px;
+    width: 300px;
+   
+}
+
+h1{
+    text-align: center;
+    text-decoration-line: blink;
+}
